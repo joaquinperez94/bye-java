@@ -1,4 +1,7 @@
-language: python
+language: java
+
+
+install: ant deps
 
 python:
   - 3.6

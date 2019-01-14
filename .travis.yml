@@ -1,0 +1,15 @@
+language: python
+
+python:
+  - 3.6
+  -
+
+jdk:
+  - oraclejdk7
+  - oraclejdk8
+
+notifications:
+  email: blogdeaula78@gmail.com
+  slack:
+    on_success: always
+    on_failure: always
